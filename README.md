@@ -1,3 +1,6 @@
+# SmartMarket
+[![codecov](https://codecov.io/gh/ivandosreisandrade/react-scaffolding/branch/master/graph/badge.svg)](https://codecov.io/gh/ivandosreisandrade/react-scaffolding)
+
 # React Scaffolding
 Tired of duplicating that old base component for creating a new one? React Scaffolding helps you to Scaffold various types of React Components quickly
 
