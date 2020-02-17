@@ -1,4 +1,4 @@
-# SmartMarket
+# Code Coverage
 [![codecov](https://codecov.io/gh/ivandosreisandrade/react-scaffolding/branch/master/graph/badge.svg)](https://codecov.io/gh/ivandosreisandrade/react-scaffolding)
 
 # React Scaffolding
